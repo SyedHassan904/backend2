@@ -2,11 +2,11 @@
   "name": "backend",
   "version": "1.0.0",
   "description": "This is the backend of my ecommerse project",
-  "main": "server.js",
+  "main": "index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "npx nodemon server.js"
+    "start": "node index.js"
   },
   "keywords": [
     "Hamza"
